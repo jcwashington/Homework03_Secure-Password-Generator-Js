@@ -2,9 +2,11 @@
 
 ## The Task
 
-The task is to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+My task is to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that I wrote. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-## User Story
+This password generator allows for up to 15 different criteria combinations. Additionally, we validate that user inputs.
+
+## Homework 03 User Story
 
 ```
 AS AN employee with access to sensitive data
@@ -12,7 +14,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-## Acceptance Criteria
+## Homework 03 Acceptance Criteria
 
 ```
 GIVEN I need a new, secure password
@@ -38,4 +40,4 @@ URL: https://jcwashington.github.io/Homework03_Secure-Password-Generator-Js/
 
 Site Mock Up:
 
-
+![secure password generator](jcw-secure_passwrd_gen.gif)

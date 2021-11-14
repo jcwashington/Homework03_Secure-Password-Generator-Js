@@ -20,7 +20,6 @@ function writePassword() {
   return
 }
 function generatePassword(passwordLength, choiceArray){
-  // Come back and add number verification !!!!
 
   //Using regex /^[0-9.,]+$/ to validate that only numbers are accepted : 
   // https://stackoverflow.com/questions/46552085/javascript-force-specific-data-type-input-or-accept-only-digits-in-input/46552674
